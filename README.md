@@ -1,4 +1,2 @@
 # show-piece
-Awesome portfolio theme
-
-edited
+COllaboration with caterax to make an awesome free wordpress.org theme. still in research phase though
